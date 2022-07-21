@@ -48,7 +48,7 @@
     "request-promise-native": "^1.0.7",
     "rimraf": "^2.6.3",
     "semver": "^6.3.0",
-    "terser": "^3.16.1"
+    "terser": "^4.8.1"
   },
   "bin": {
     "ospec": "./ospec/bin/ospec"
